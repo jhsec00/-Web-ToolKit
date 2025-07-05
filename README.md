@@ -8,8 +8,7 @@
 | 분류   | 도구명        | 설명                                                                         |
 |--------|----------------|------------------------------------------------------------------------------|
 | 프록시 | [Burp Suite](https://portswigger.net/burp/communitydownload) | 웹 요청 가로채기 및 취약점 진단 도구 (Community Edition) |
-
-
+| 프록시 | [Fiddler](https://www.telerik.com/fiddler)                   | 웹 트래픽 분석 및 디버깅 프록시 도구                     |
 
 ---
 
